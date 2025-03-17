@@ -12,7 +12,10 @@ from sklearn.metrics import accuracy_score
 from sklearn.metrics import confusion_matrix
 from sklearn.metrics import classification_report
 
-data = '/home/gianluca/Scikit-Learn/sci/car+evaluation/car.data'
+#download DS from official car data website at this link https://archive.ics.uci.edu/dataset/19/car+evaluation  
+#place data set in whichever file you choose then copy the file path and paste it between the quotation marks below
+
+data = ''
 df = pd.read_csv(data, header=None)
 
 #print(df.shape)
