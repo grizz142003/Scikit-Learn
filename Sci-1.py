@@ -12,6 +12,7 @@ from sklearn.metrics import accuracy_score
 from sklearn.metrics import confusion_matrix
 from sklearn.metrics import classification_report
 
+
 data = '/home/gianluca/Scikit-Learn/sci/car+evaluation/car.data'
 df = pd.read_csv(data, header=None)
 
