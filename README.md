@@ -8,5 +8,6 @@ Might Develop a script that automaticall downloads and stores these datasets.
 https://archive.ics.uci.edu/dataset/19/car+evaluation  
 https://www.kaggle.com/datasets/martinellis/nhl-game-data NOTE this piece of data isn't included in download script as it is already downloaded inside the python script.  
 
-# Doc 4 isnt complete and I dont understand it, just copied code from website need to tinker with it more to get it.
+# Doc 4  
+isnt complete and I dont understand it, just copied code from website need to tinker with it more to get it.
 
